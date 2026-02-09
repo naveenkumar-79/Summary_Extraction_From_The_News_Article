@@ -1,5 +1,5 @@
 # Summary_Extraction_From_The_News_Article
-📌 Project Overview
+📌 ***Project Overview***
 
 This project is an Automatic News Article Summarization System built using Python and Natural Language Processing (NLP) techniques. It extracts important information from lengthy news articles and generates a concise, meaningful summary automatically.
 
@@ -54,6 +54,7 @@ Selects top-ranked sentences (30%)
 Cleans and generates the final summary
 
 📂 ***Project Structure***
+
 news-article-summarization/
 │
 ├── main.py           # Main source code
@@ -73,6 +74,7 @@ The summarized content will be saved in summary.txt
 Logs will show each processing step
 
 📌 ***Sample Input***
+
 url = "https://timesofindia.indiatimes.com/..."
 📄 Sample Output
 
@@ -113,6 +115,7 @@ Improve summary quality with TF-IDF or transformers
 Contributions, suggestions, and improvements are always welcome!
 
 📬 ***Contact***
+
 Name: P.Naveen Kumar
 📧 LinkedIn: www.linkedin.com/in/naveenkumar-puppala-b87737332
 🐙 Gmail: puppalanaveenkumar11@gmail.com
