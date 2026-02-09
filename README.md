@@ -5,7 +5,7 @@ This project is an Automatic News Article Summarization System built using Pytho
 
 The system takes a news article URL as input, processes the text using NLP libraries, and outputs a clean summary, reducing reading time while preserving key information.
 
-🚀 Features
+🚀 ***Features***
 
 Extracts news articles directly from live URLs
 
@@ -21,7 +21,7 @@ Modular and class-based Python implementation
 
 Logging and exception handling for robustness
 
-🛠 Technologies & Libraries Used
+🛠 ***Technologies & Libraries Used***
 
 Python 3
 
@@ -35,7 +35,7 @@ Regex (re) – Text cleaning
 
 Heapq – Selecting top-ranked sentences
 
-🧠 How It Works
+🧠 ***How It Works***
 
 Takes a news article URL as input
 
@@ -53,7 +53,7 @@ Selects top-ranked sentences (30%)
 
 Cleans and generates the final summary
 
-📂 Project Structure
+📂 ***Project Structure***
 news-article-summarization/
 │
 ├── main.py           # Main source code
@@ -72,13 +72,13 @@ The summarized content will be saved in summary.txt
 
 Logs will show each processing step
 
-📌 Sample Input
+📌 ***Sample Input***
 url = "https://timesofindia.indiatimes.com/..."
 📄 Sample Output
 
 A concise summary extracted from the original news article.
 
-🎯 Use Cases
+🎯 ***Use Cases***
 
 News aggregation platforms
 
@@ -88,7 +88,7 @@ Research and analysis
 
 NLP learning and experimentation
 
-📈 Learning Outcomes
+📈 ***Learning Outcomes***
 
 Practical understanding of NLP pipelines
 
@@ -98,7 +98,7 @@ Improved Python OOP and debugging skills
 
 Working with real-world unstructured text data
 
-🔮 Future Enhancements
+🔮 ***Future Enhancements***
 
 Add abstractive summarization using deep learning
 
@@ -108,12 +108,11 @@ Support multiple news sources and languages
 
 Improve summary quality with TF-IDF or transformers
 
-🤝 Contributing
+🤝 ***Contributing***
 
 Contributions, suggestions, and improvements are always welcome!
 
-📬 Contact
-
-Naveen Kumar
+📬 ***Contact***
+Name: P.Naveen Kumar
 📧 LinkedIn: www.linkedin.com/in/naveenkumar-puppala-b87737332
 🐙 Gmail: puppalanaveenkumar11@gmail.com
