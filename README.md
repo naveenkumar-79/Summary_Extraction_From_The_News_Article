@@ -77,7 +77,7 @@ Logs will show each processing step
 
 url = "https://timesofindia.indiatimes.com/..."
 
-📄 Sample Output
+📄 ***Sample Output***
 
 A concise summary extracted from the original news article.
 
@@ -118,5 +118,7 @@ Contributions, suggestions, and improvements are always welcome!
 📬 ***Contact***
 
 Name: P.Naveen Kumar
+
 📧 LinkedIn: www.linkedin.com/in/naveenkumar-puppala-b87737332
+
 🐙 Gmail: puppalanaveenkumar11@gmail.com
