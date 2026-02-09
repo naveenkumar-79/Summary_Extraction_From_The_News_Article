@@ -76,6 +76,7 @@ Logs will show each processing step
 📌 ***Sample Input***
 
 url = "https://timesofindia.indiatimes.com/..."
+
 📄 Sample Output
 
 A concise summary extracted from the original news article.
